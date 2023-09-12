@@ -134,7 +134,7 @@ Specify those requirements that are concerned with possible loss, damage, or har
 ## :octocat: Manuel Fernando Silva Acero :octocat:
 1.
 ## :octocat: Edward Geovanny Sosa Amaya :octocat:
-2.
+2. El sistema debe proteger los datos del usuario, como contraseñas, cuentas e información a fin. Esto es un derecho del usuario/cliente reclamar este derecho y un deber del sistema garantizarlo. El artículo 15 de la constitución politica de Colombia (1991), busca velar por el cumplimiento de cualquier tipo de información, en un contexto universal, de todo ciudadano. La información del usuario solamente se conocerá mediante una orden judicial.
 Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.
 ### 5.4 Software Quality Attributes
 Specify any additional quality characteristics for the product that will be important to either the customers or the developers. Some to consider are: adaptability, availability, correctness, flexibility, interoperability, maintainability, portability, reliability, reusability, robustness, testability, and usability. Write these to be specific, quantitative, and verifiable when possible. At the least, clarify the relative preferences for various attributes, such as ease of use over ease of learning.
